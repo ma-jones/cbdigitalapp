@@ -2,7 +2,7 @@ backend:
   name: github
   repo: ma-jones/cbdigital
   branch: master
-  site_domain: cbdigital.netlify.app
+  site_domain: cbdigitalapp.netlify.app
 
 
 media_folder: "images/uploads"
