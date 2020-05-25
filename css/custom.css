@@ -50,6 +50,10 @@ body{
     width: auto;
 }
 
+.drop {
+	margin-top: 100px;
+}
+
 .mb-0, .my-0 {
 
     text-align: center;
