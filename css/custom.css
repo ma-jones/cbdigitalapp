@@ -10,10 +10,6 @@ body{
 
 }
 
-body > div > a {
-    text-decoration: none;
-}
-
 .sec-nav{
 	overflow: hidden;
   	background-color: #333;
