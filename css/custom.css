@@ -1069,3 +1069,7 @@ cursor:pointer;
    .blk, h2 {
 	   color:#424242;
    } 
+
+   .my-padding {
+	   padding: 10px;
+   }
