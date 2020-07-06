@@ -1066,6 +1066,6 @@ cursor:pointer;
 	  line-height:100%;            
    }
 
-   .blk {
+   .blk, h2 {
 	   color: #000;
    }
