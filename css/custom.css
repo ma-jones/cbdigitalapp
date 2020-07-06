@@ -1065,3 +1065,7 @@ cursor:pointer;
 	  vertical-align:middle;
 	  line-height:100%;            
    }
+
+   .blk {
+	   color: #000;
+   }
