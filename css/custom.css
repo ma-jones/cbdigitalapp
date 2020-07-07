@@ -90,6 +90,10 @@ body{
 	transform: translate(-50%, -50%);
   }
 
+  .spacing {
+	  padding: 10px;
+  }
+
 .navbar-inverse .navbar-nav > li > a:focus, .navbar-inverse .navbar-nav > li > a:hover {
 
     text-transform: uppercase;
