@@ -5,44 +5,8 @@
 body{
      padding-top: 0px;
      padding-bottom: 60px;
-	 /*font-family: 'Montserrat', sans-serif;*/
 	 background-color: rgba(23, 13, 13, 0);
 
-}
-
-.sec-nav{
-	overflow: hidden;
-  	background-color: #333;
-  	position: fixed;
-  	top: 0;
-	width: 100%;
-	margin-top: 55px;
-	z-index: 1;
-  }
-
-.sec-nav ul {
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-	overflow: hidden;
-	background-color: #333;
-  }
-
-.sec-nav li{
-	float: left;
-}
-
-.sec-nav li a{
-	display: block;
-	color: white;
-	text-align: center;
-	padding: 14px 16px;
-	text-decoration: none;
-}
-
-/* Change the link color to #111 (black) on hover */
-.sec-nav li a:hover{
-	background-color: #111;
 }
 
 .dropdown{
@@ -179,15 +143,6 @@ li .colour {
 
 /* Jumotron & Carousel
 -------------------------------------------------- */
-
-.jumbotron {
-	padding-top: 0px;
-	padding-bottom: 0px;
-    font-size: 1em;
-    margin-top: 20px;
-    margin-bottom: 0px;
-    background-color: #fff;
-}
 
 .carousel-indicators {
     display: none;
@@ -370,11 +325,13 @@ input, button, select, textarea {
     border-bottom-color: #B19B57;*/
     color: #f6f6f6;
     text-transform: uppercase;
-    word-spacing: 0.3em;
+	word-spacing: 0.3em;
+	font-family: 'Rubik', sans-serif;
 }
 
 h2, .h2 {
-    font-style: italic;
+	font-style: italic;
+	font-family: 'Rubik', sans-serif;
 }
 
 /*Bread Crumbs
@@ -415,7 +372,8 @@ span{
 p {
     font-size: 18px;
     color: #424242;
-    line-height: 1.5em;
+	line-height: 1.5em;
+	font-family: 'Rubik', sans-serif;
 }
 
 /* Horizontal Rule
