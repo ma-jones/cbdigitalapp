@@ -1062,6 +1062,6 @@ cursor:pointer;
 	   padding: 10px;
    }
 
-   .social-network .social-circle {
+   ul, .social-network .social-circle {
 	   display: inline-block;
    }
