@@ -94,6 +94,10 @@ body{
 	  padding: 30px;
   }
 
+  .up {
+	margin-top: -100px;
+  }
+
 .navbar-inverse .navbar-nav > li > a:focus, .navbar-inverse .navbar-nav > li > a:hover {
 
     text-transform: uppercase;
