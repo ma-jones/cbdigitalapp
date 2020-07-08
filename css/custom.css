@@ -141,6 +141,10 @@ body{
     font-size: 14px;
 }
 
+.no-gutters > .col, .no-gutters > [class*="col-"] {
+    margin-bottom: -8px;
+}
+
 .filler{
 	margin: 25px;
 	text-align: center;
