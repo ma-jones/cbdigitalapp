@@ -496,7 +496,6 @@ hr {
     background-color: #563c90;
 }
 
-
 .container-fluid{
     padding-top: 155px;
     padding-bottom: 200px;
@@ -513,7 +512,7 @@ hr {
 	background-repeat: no-repeat;
 	background-size: cover;
 	margin-top: -25px;
-	}
+}
 
 /* Images
 -------------------------------------------------- */
