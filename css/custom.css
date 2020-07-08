@@ -139,7 +139,9 @@ body{
 	margin-bottom: -265px;
 }
 
-linear-gradient( 135deg, rgba(60, 8, 118, 0.8) 0%, rgba(250, 0, 118, 0.8) 100%);
+svg {
+    margin-bottom: -205px;
+}
 
 .dropdown-menu > li > a {
     font-size: 14px;
