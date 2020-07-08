@@ -138,7 +138,7 @@ body{
 }
 
 svg {
-    margin-bottom: -205px;
+    margin-bottom: auto;
 }
 
 .dropdown-menu > li > a {
