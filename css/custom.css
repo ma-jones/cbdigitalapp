@@ -134,10 +134,12 @@ body{
 }
 
 .svg-colour {
-	fill: #f2f2f9;
+	fill: linear-gradient( 135deg, rgba(60, 8, 118, 0.8) 0%, rgba(250, 0, 118, 0.8) 100%);
 	/*background-image: linear-gradient( 135deg, rgba(60, 8, 118, 0.8) 0%, rgba(250, 0, 118, 0.8) 100%);*/
 	margin-bottom: -265px;
 }
+
+linear-gradient( 135deg, rgba(60, 8, 118, 0.8) 0%, rgba(250, 0, 118, 0.8) 100%);
 
 .dropdown-menu > li > a {
     font-size: 14px;
