@@ -1061,3 +1061,7 @@ cursor:pointer;
    .my-padding {
 	   padding: 10px;
    }
+
+   .social-network .social-circle {
+	   display: inline-block;
+   }
