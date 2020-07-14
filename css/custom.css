@@ -1050,3 +1050,9 @@ cursor:pointer;
 	display: block;
     margin: 20px 0px 10px 40px;
 }
+
+/******* Modal ************/
+
+.modal-content {
+    padding: 45px;
+}
