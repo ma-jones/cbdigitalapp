@@ -421,31 +421,6 @@ hr {
 	padding-bottom: 40px;
 }
 
-/*.click-btn, button, input[type="submit"], input[type="reset"], input[type="button"] {
-    display: inline-block;
-    font-family: "montserrat-medium", sans-serif;
-    font-size: 1.2rem;
-    text-transform: uppercase;
-    letter-spacing: .3rem;
-    height: 3rem;
-    line-height: calc(5.4rem - .4rem);
-    padding: 0 0.6rem;
-    margin: 0 .3rem 1.2rem 0;
-    color: #000000;
-    text-decoration: none;
-    text-align: center;
-    white-space: nowrap;
-    cursor: pointer;
-    -webkit-transition: all 0.3s ease-in-out;
-    transition: all 0.3s ease-in-out;
-    background-color: transparent;
-    border: .2rem solid #000;
-}*/
-
-.btn {
-	margin-bottom: 20px;
-}
-
 /* Nav Sub
 -------------------------------------------------- */
 .lower {
@@ -562,8 +537,12 @@ hr {
 
 #journey {
 	background-image: url("../img/boat-sat.jpg");
-
 }
+
+#products {
+	background-image: url("../img/ty-soho-up.jpg");
+}
+
 
 #left-text {
 	text-align: left;
