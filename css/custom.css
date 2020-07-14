@@ -1065,10 +1065,7 @@ cursor:pointer;
 	   padding: 10px;
    }
 
-/******* Modal  **********/
-
-@media only screen and (min-width: 576px){
-   .modal-sm {
-    max-width: 800px;
-}
+/******* Buttons **********/
+.btn {
+	display: block;
 }
