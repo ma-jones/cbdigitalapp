@@ -680,6 +680,10 @@ body {
 
 @media (max-width:768px){
 
+	.w-100 {
+		padding: 0px 50px 5px 50px;
+	}
+
 h2 {
 
 	font-size: 1.4em;
