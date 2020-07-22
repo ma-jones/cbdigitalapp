@@ -306,7 +306,7 @@ body,
 }
 
 .pages, h2 {
-	color: #21242b;
+	color: #fff;
 	border-bottom-color: transparent;
 }
 
@@ -379,7 +379,7 @@ h2, .h2 {
 
 
 a:hover, a:focus {
-    color: #B19B57;
+    color: #fff
 
 }
 
@@ -394,7 +394,7 @@ a:active {
 }
 
 span{
-	color: #b09b56;
+	color: #fff;
 }
 
 /* Paragraphs
