@@ -1056,3 +1056,7 @@ cursor:pointer;
 .modal-content {
     padding: 45px;
 }
+
+.w-100 {
+	padding: 5px 5px 5px 5px;
+}
