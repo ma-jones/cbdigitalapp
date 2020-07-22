@@ -644,7 +644,16 @@ body {
 
 /* Media
 -------------------------------------------------- */
+@media only screen and (min-width: 1200px){
+
+	.w-100 {
+		padding: 0px 250px 5px 250px;
+	}
+
+}
+
 @media only screen and (min-width: 768px){
+
 
 
 .carousel-caption {
@@ -1059,12 +1068,6 @@ cursor:pointer;
 
 .modal-content {
     padding: 45px;
-}
-
-/************ Padding *************/
-
-.w-100 {
-	padding: 0px 250px 5px 250px;
 }
 
 
