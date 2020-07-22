@@ -672,10 +672,6 @@ body {
 
 @media (max-width:900px){
 
-.w-100 {
-	padding: 0px 250px 5px 250px;
-}
-
 .navbar-second {
 	font-size: 12px;
 	}
@@ -1063,6 +1059,12 @@ cursor:pointer;
 
 .modal-content {
     padding: 45px;
+}
+
+/************ Padding *************/
+
+.w-100 {
+	padding: 0px 250px 5px 250px;
 }
 
 
