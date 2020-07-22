@@ -1,0 +1,15 @@
+banner:
+  title: "New Life CB"
+  text: "Dream on what is recently happening."
+  button: "See"
+  image: "/images/uploads/banner.jpg"
+
+cottages:
+  title: "CB Sale"
+  text: "Browse on what is recently happening."
+  button: "See"
+
+blog:
+  title: "Follow along with CB"
+  text: "Read up on what is recently happening."
+  button: "Read more updates"
