@@ -690,9 +690,9 @@ body {
 
 @media (max-width:768px){
 
-	.w-100 {
-		padding: 0px 50px 5px 50px;
-		background-image: linear-gradient( 135deg, rgba(60, 8, 118, 0.8) 0%, rgba(250, 0, 118, 0.8) 100%);
+.w-100 {
+	padding: 0px 50px 5px 50px;
+	background-image: linear-gradient( 135deg, rgba(60, 8, 118, 0.8) 0%, rgba(250, 0, 118, 0.8) 100%);
 	}
 
 h2 {
