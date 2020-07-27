@@ -323,6 +323,11 @@ body,
 	font-size: 18px;
 }
 
+.grey, ul {
+	color: #020201
+}
+
+
 .light {
     background-image: url("../img/tra.svg");
     /*background-color: rgba(130, 52, 168, 0.47);
@@ -700,14 +705,9 @@ h2 {
 	font-size: 1.4em;
 }
 
-.grey {
-	color: #020201
-}
-
 p {
     font-size: 1.1em;
 }
-
 
 .light {
 
