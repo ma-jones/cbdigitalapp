@@ -670,17 +670,6 @@ body {
     left: 10%;
 
 	}
-	
-	.h1, h1 {
-		font-size: 1.7rem;
-	}
-
-	.h1, h1 {
-		font-size: 1.7rem;
-	}
-	.h2, h2 {
-		font-size: 1.5rem;
-	}
 
  .testimonials ul li p {
     margin: 15px 0px 15px 15px;
@@ -714,9 +703,11 @@ body {
 	background-image: linear-gradient( 135deg, rgba(60, 8, 118, 0.8) 0%, rgba(250, 0, 118, 0.8) 100%);
 	}
 
-h2 {
-
-	font-size: 1.4em;
+.h1, h1 {
+	font-size: 1.7rem;
+}
+.h2, h2 {
+	font-size: 1.5rem;
 }
 
 p {
