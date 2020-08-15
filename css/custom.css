@@ -91,7 +91,7 @@ body{
   }
 
   .spacing {
-	padding: 30px 65px 0px 65px;
+	padding: 15px 35px 0px 35px;
   }
 
   .up {
@@ -312,6 +312,10 @@ body,
 
 .white, h2 {
 	color: #fff;
+}
+
+.dark, h2 {
+	color: #21242b;
 }
 
 .dark, ul {
